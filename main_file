@@ -1,0 +1,17 @@
+import matplotlib.pyplot as plt
+import numpy as np
+from sklearn.model_selection import train_test_split
+X=np.load("/gdrive/My Drive/X_c1.npy")
+Y=np.load("/gdrive/My Drive/Y_c1.npy")
+X=X/255.0
+plt.imshow(X[706])
+print(Y[706])
+X_train, X_test, Y_train, Y_test = train_test_split(X, Y, test_size=0.2, random_state=42,stratify=Y)
+print(X_train.shape)
+print(Y_train.shape)
+print(X_test.shape)
+#print(Y_test)
+a=[0,0,0,0,0,0,0,0,0,0]
+for i in range(Y_test.shape[0]):
+  a[int(Y_test[i])]=a[int(Y_test[i])]+1
+print(a)
