@@ -15,7 +15,4 @@ The sign_detection.ipynb contains step step process to run, train and test the m
 ## Trained model
 The trained model can be found at this link https://drive.google.com/file/d/1-SYSo8_g4aTh58cktmPfNnq8i6IK_GGb/view?usp=sharing. 
 
-## The overview of the system
-<p align="center">
-  <img src="https://github.com/aveen-d/sign_detection/blob/master/process.png">
-</p>
+
