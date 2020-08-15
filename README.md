@@ -1,4 +1,4 @@
-# sign_detection
+# Sign_detection
 ## X_c1.np
 The dataset features i.e the images are found at this link https://drive.google.com/file/d/1I3pC0m6i5ucaGsLwn3sOD_zjM5-fng55/view?usp=sharing . 
 ## Y_c1.np
@@ -16,4 +16,6 @@ The sign_detection.ipynb contains step step process to run, train and test the m
 The trained model can be found at this link https://drive.google.com/file/d/1-SYSo8_g4aTh58cktmPfNnq8i6IK_GGb/view?usp=sharing. 
 
 ## The overview of the system
-
+<p align="center">
+  <img src="https://github.com/aveen-d/sign_detection/blob/master/process.png">
+</p>
