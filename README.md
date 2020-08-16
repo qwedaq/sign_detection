@@ -13,6 +13,6 @@ The sign_detection.ipynb contains step step process to run, train and test the m
 6. We then convert the tensorflow model saved in .h5 format to tensorflow lite version to speed up the inference time. (Note : if you save the tf model in .hdf5 format then first convert that to .h5 format before coonverting into tf lite version).
 
 ## Trained model
-The trained model can be found at this link https://drive.google.com/file/d/1-SYSo8_g4aTh58cktmPfNnq8i6IK_GGb/view?usp=sharing. 
-
+The trained tensorflow model can be found at this link https://drive.google.com/file/d/1-SYSo8_g4aTh58cktmPfNnq8i6IK_GGb/view?usp=sharing . 
+The trained tensorflow lite model can be found at this link https://drive.google.com/file/d/1-YDJ0QAHVasFpTa0xYLUUByvTtnaKcvZ/view?usp=sharing .
 
