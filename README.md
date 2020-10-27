@@ -11,7 +11,8 @@ The sign_detection.ipynb contains step step process to run, train and test the m
 4. Next the trained model is tested and different evaluation metrics are shown.
 5. Next we save our trained model in .h5 format, it can be stored in .hdf5 format too. 
 6. We then convert the tensorflow model saved in .h5 format to tensorflow lite version to speed up the inference time. (Note : if you save the tf model in .hdf5 format then first convert that to .h5 format before coonverting into tf lite version).
-
+# Model Architecture
+![alt text] (https://github.com/aveen-d/sign_detection/blob/master/arch.png)
 ## Trained model
 The trained tensorflow model can be found at this link https://drive.google.com/file/d/1-SYSo8_g4aTh58cktmPfNnq8i6IK_GGb/view?usp=sharing . 
 The trained tensorflow lite model can be found at this link https://drive.google.com/file/d/1-YDJ0QAHVasFpTa0xYLUUByvTtnaKcvZ/view?usp=sharing .
