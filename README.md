@@ -1,4 +1,5 @@
 # Sign_detection
+Dayal, A.; Paluru, N.; Cenkeramaddi, L.R.; J., S.; Yalavarthy, P.K. Design and Implementation of Deep Learning Based Contactless Authentication System Using Hand Gestures. Electronics 2021, 10, 182. https://doi.org/10.3390/electronics10020182
 ## X_c1.np
 The dataset features i.e the images are found at this link https://drive.google.com/file/d/1I3pC0m6i5ucaGsLwn3sOD_zjM5-fng55/view?usp=sharing . 
 ## Y_c1.np
